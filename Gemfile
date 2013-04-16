@@ -1,7 +1,6 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'pygmentize'
 gem 'jekyll'
 gem 'redcarpet'
-gem 'heroku'
 gem 'foreman'
