@@ -2,7 +2,8 @@ auto: true
 server: true
 paginate: 20
 pigments: true
-name: Ruby Lugdunum 2012
-description: The French Ruby Conference June, 22nd-23rd 2012 in Lyon
-url: http://rulu.eu
+name: Ruby Lugdunum 2013
+description: The French Ruby Conference June, 20th-21st 2013 in Lyon
+url: http://rulu-eu.github.io/rulu2013
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+baseurl: /rulu2013
