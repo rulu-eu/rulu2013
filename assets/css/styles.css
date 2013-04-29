@@ -210,11 +210,6 @@ header nav ul li a {
 	color: #D00D04;
 }
 
-#description strong {
-  font-weight: normal;
-  color: #D00D04;
-}
-
 #description blockquote {
   margin-top: 50px;
 	border-left-color: #D00D04;
