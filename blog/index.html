@@ -14,9 +14,9 @@ layout: blog
     </header>
     <div class="row">
       <aside class="span3">
-        <img src="/../assets/img/organizers/{{ post.twitter }}.png"
+        <img src="/../assets/img/organizers/{{ post.photo }}.png"
         class="avatar">
-        <p>{{ post.date | date: "%b %d, %Y" }} by <a href="http://twitter.com/{{ post.twitter }}">{{ post.author }}</a></p>
+        <p>{{ post.date | date: "%b %d, %Y" }} by <a href="http://{{ post.website }}">{{ post.author }}</a></p>
       </aside>
       <div class="span9 content">
         {{ post.content }}
