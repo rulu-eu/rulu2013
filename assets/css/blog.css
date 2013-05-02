@@ -329,3 +329,9 @@ j
   font-size: 10px;
   line-height: 1.5em;
 }
+
+.blog-thumb {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1.5em;
+}
