@@ -145,6 +145,23 @@ header nav ul li a {
 	font-size: 14px;
 }
 
+.splash {
+  text-align: center;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.splash h2 {
+  font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
+  font-size: 32px;
+  margin-bottom: 1em;
+}
+
+.splash p {
+  font-size: 21px;
+  margin-top: 1em;
+}
+
 #date {
 	font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
 	font-size: 48px;
@@ -168,7 +185,6 @@ header nav ul li a {
   margin-bottom: 25px;
   padding-bottom: 20px;
 }
-
 
 .divider {
 	margin: 20px auto;
