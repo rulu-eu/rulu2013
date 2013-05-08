@@ -162,6 +162,10 @@ header nav ul li a {
   margin-top: 1em;
 }
 
+.splash a {
+  color: #D00D04;
+}
+
 #date {
 	font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
 	font-size: 48px;
