@@ -1,5 +1,6 @@
 ---
 layout: page
+class: markdown
 ---
 Call for proposal
 =================
