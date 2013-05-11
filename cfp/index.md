@@ -6,12 +6,15 @@ Call for proposal
 =================
 
 We are inviting the Ruby community to submit talks for RuLu 2013.
-[This Call for Proposals](https://docs.google.com/forms/d/1a9KqfkiJ73x-amtUzM_rvkk0F3EXSPJW9mZ5vSd6SHY/viewform) (CFP) will close on May 24th.
+All we have to do is to fill the [RuLu 2013 CFP form](https://docs.google.com/forms/d/1a9KqfkiJ73x-amtUzM_rvkk0F3EXSPJW9mZ5vSd6SHY/viewform)!
+
+CFP will close on May 24th.
 
 Topics
 ------
 
 RuLu is a Ruby conference, so we are mainly looking for Ruby topics.
+
 We also accept non-Ruby or non-technical talks if we feel it would interest Rubyists.
 
 Guidelines
@@ -21,7 +24,7 @@ All talks are in English.
 
 Talks are 25-30 minutes long, no more. Then you will have up to 5 minutes for Q&A.
 
-Make sure to fill in the CFP with precise words. But don't over do it. Just be yourself!
+Make sure [to fill in the CFP](https://docs.google.com/forms/d/1a9KqfkiJ73x-amtUzM_rvkk0F3EXSPJW9mZ5vSd6SHY/viewform) with precise words. But don't over do it. Just be yourself!
 
 Don't forget to tell us *why the Ruby community does care* about your talk. And don't forget to tell us about the story you plan to tale, as good stories often make good talks.
 
