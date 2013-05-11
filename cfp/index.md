@@ -28,7 +28,8 @@ Make sure [to fill in the CFP](https://docs.google.com/forms/d/1a9KqfkiJ73x-amtU
 
 Don't forget to tell us *why the Ruby community does care* about your talk. And don't forget to tell us about the story you plan to tale, as good stories often make good talks.
 
-Remember we will only have 8 talks for this edition, so we may have to refuse your talk even if we think it's going to be a great one! And we already know it's going to be a hard time selecting the talks!
+The conference will consist of 8 talks.
+We will let you know as soon as possible if your proposal has been accepted.
 
 What you get
 ------------
