@@ -490,6 +490,8 @@ header nav ul li a {
   font-size: 90%;
 }
 #conf-details .slideshow .speaker .speaker-info.github,
+#conf-details .slideshow .speaker .speaker-info.blog,
+#conf-details .slideshow .speaker .speaker-info.homepage,
 #conf-details .slideshow .speaker .speaker-info.company,
 #conf-details .slideshow .speaker-info.twitter {
   font-size: 10px;
