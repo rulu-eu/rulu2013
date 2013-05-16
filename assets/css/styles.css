@@ -453,6 +453,10 @@ header nav ul li a {
   margin-left: 15px;
 }
 
+article .speaker-info {
+  margin-top: 1em;
+  display: block;
+}
 
 #conf-details .slideshow {
   width: 620px;
