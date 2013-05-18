@@ -6,3 +6,8 @@ name: Ruby Lugdunum 2013
 description: The French Ruby Conference June, 20th-21st 2013 in Lyon
 url: http://rulu.eu
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+mailjet: 
+  api_key: eb9e14c48e0f753f1a45dd46856c5bbf
+  secret_key: test
+  domain: test_domain.com
+  default_from: benoit.benezech@gmail.com
