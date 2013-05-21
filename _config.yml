@@ -6,3 +6,5 @@ name: Ruby Lugdunum 2013
 description: The French Ruby Conference June, 20th-21st 2013 in Lyon
 url: http://rulu.eu
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+safe: true
+lsi: true
