@@ -1,6 +1,5 @@
 auto: true
 server: true
-paginate: 20
 pigments: true
 name: Ruby Lugdunum 2013
 description: The French Ruby Conference June, 20th-21st 2013 in Lyon
