@@ -68,7 +68,7 @@ You were right to bet on us. We are now ready to let you know about the first am
 	  <span class="speaker-info author">Benjamin Smith</span>
 	  <span class="divider"></span>
 	  <span class="speaker-info github">Github: <a href="http://github.com/benjaminleesmith" target="_blank">benjaminleesmith</a></span>
-	  <span class="speaker-info company">Twitter: <a href="http://pivotallabs.com/" target="_blank">Pivotal Labs</a></span>
+	  <span class="speaker-info company">Company: <a href="http://pivotallabs.com/" target="_blank">Pivotal Labs</a></span>
 	  <span class="speaker-info blog">Blog: <a href="http://lagndary.appspot.com/pivotallabs.com/author/bsmith" target="_blank">Ben Smith</a></span>
 	</div>
 
