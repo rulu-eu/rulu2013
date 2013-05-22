@@ -1,4 +1,4 @@
-# Ruby Lugdunum 2012 website
+# Ruby Lugdunum 2013 website
 
 ## Development environment
 
