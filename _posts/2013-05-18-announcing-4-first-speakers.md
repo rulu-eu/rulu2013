@@ -6,8 +6,8 @@ photo: ferdinand-boas
 website: ferdinandboas.com
 published: true
 ---
-<p>We've seen so many of you <a href="http://tito.io/rulu/rulu-2013">register to RuLu 2013</a> even if we haven't annouced any speaker yet. Being trusted by the Ruby community is a great honour!<br />
-You were right to bet on us. We are now ready to let you know about the first amazing speakers who will join us.</p>
+<p>We've seen so many of you <a href="http://tito.io/rulu/rulu-2013">register for RuLu 2013</a> even though we haven't annouced the speakers yet. Being trusted by the Ruby community is a great honour and we are truly grateful for your support!<br />
+You were right to bet on us. We are now ready to announce the first four of the amazing speakers who will delight you at RuLu.</p>
 
 
 <div class="row-fluid">
@@ -79,6 +79,6 @@ You were right to bet on us. We are now ready to let you know about the first am
 </div>
 
 <div class="row-fluid">
-	We will give you more details about each of their talk in the upcoming days.
-	Bur first we have to unveil some of the other speakers' names, so <a href="http://twitter.com/rulu">stay tuned</a> for the incoming announcements!
+	We will give you more details about each of their talks in the coming days.
+	Bur first we have to unveil some of the other speakers' names, so <a href="http://twitter.com/rulu">stay tuned</a> for more!
 </div>
