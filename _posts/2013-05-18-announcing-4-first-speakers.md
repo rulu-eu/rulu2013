@@ -64,7 +64,7 @@ You were right to bet on us. We are now ready to announce the first four of the 
 
 <div class="row-fluid">
 	<div class="speaker" style="float: left;">
-	  <img src="/assets/img/speakers/benjamin.jpeg" alt="">
+	  <img src="/assets/img/speakers/benjamin.jpeg" alt="Benjamin Smith">
 	  <span class="speaker-info author">Benjamin Smith</span>
 	  <span class="divider"></span>
 	  <span class="speaker-info github">Github: <a href="http://github.com/benjaminleesmith" target="_blank">benjaminleesmith</a></span>
@@ -79,6 +79,7 @@ You were right to bet on us. We are now ready to announce the first four of the 
 </div>
 
 <div class="row-fluid">
+	<br />
 	We will give you more details about each of their talks in the coming days.
-	Bur first we have to unveil some of the other speakers' names, so <a href="http://twitter.com/rulu">stay tuned</a> for more!
+	But first we have to unveil some of the other speakers' names, so <a href="http://twitter.com/rulu">stay tuned</a> for more!
 </div>

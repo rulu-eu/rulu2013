@@ -1,0 +1,105 @@
+---
+layout: post
+title: All speakers unveiled
+author: Ferdinand
+photo: ferdinand-boas
+website: ferdinandboas.com
+published: true
+---
+<p>As we're only a few weeks away from RuLu, it's finally time to reveal the full lineup of speakers we will welcome on stage.<br />
+We will have 9 talks, so here are the five names you were waiting for:</p>
+
+
+<div class="row-fluid">
+	<div class="speaker" style="float: left;">
+	  <img src="/assets/img/speakers/michael.jpeg" alt="Michael Wawra">
+	  <span class="speaker-info author">Michael Wawra</span>
+	  <span class="divider"></span>
+	  <span class="speaker-info github">Github: <a href="http://github.com/xmjw" target="_blank">xmjw</a></span>
+	  <span class="speaker-info twitter">Twitter: <a href="http://twitter.com/xmjw" target="_blank">@xmjw</a></span>
+	  <span class="speaker-info company">Company: <a href="http://www.twilio.com" target="_blank">Twilio</a></span>
+	</div>
+
+	<p><br />Michael is a developer evangelist at Twilio, helping people embrace cloud communications.<br />
+	   He loves anything that can be programmed, especially things that can be connected into Lego.<br />
+	   Prior to Twilio, Michael was consulting in the City of London - mostly building other peoples' websites.<br />
+	   He was once involved in Telecoms R&amp;D, and has a guilt-inducing software patent around the Linux IP Stack.<br />
+	   He is forever looking for good causes to contribute code to, and always looking to iterate and make stuff better!</p>
+</div>
+
+<div class="row-fluid">
+	<div class="speaker" style="float: left;">
+	  <img src="/assets/img/speakers/vincent.jpeg" alt="Vincent Tourraine">
+	  <span class="speaker-info author">Vincent Tourraine</span>
+	  <span class="divider"></span>
+	  <span class="speaker-info github">Github: <a href="http://github.com/vtourraine" target="_blank">vtourraine</a></span>
+	  <span class="speaker-info twitter">Twitter: <a href="http://twitter.com/vtourraine" target="_blank">@vtourraine</a></span>
+	  <span class="speaker-info company">Company: <a href="http://www.shazino.com/" target="_blank">shazino</a></span>
+	  <span class="speaker-info blog">Blog: <a href="http://www.vtourraine.net/blog/" target="_blank">Vincent Tourraine</a></span>
+	</div>
+
+	<p><br />Vincent is a mobile developer focused on iOS, but he also builds websites from time to time.<br />
+      He lives in the beautiful city of Lyon and he works at Shazino, where he explores various Web Services in the name of Science.<br />
+      He also builds his own iOS apps at Studio AMANgA.<br />
+      Vincent loves looking at pixels, and things from outer space.
+	</p>
+</div>
+
+
+<div class="row-fluid">
+	<div class="speaker" style="float: left;">
+	  <img src="/assets/img/speakers/arne.png" alt="Arne Brasseur">
+	  <span class="speaker-info author">Arne Brasseur</span>
+	  <span class="divider"></span>
+	  <span class="speaker-info github">Github: <a href="http://github.com/plexus" target="_blank">plexus</a></span>
+	  <span class="speaker-info twitter">Twitter: <a href="http://twitter.com/plexus" target="_blank">@plexus</a></span>
+	  <span class="speaker-info blog">Blog: <a href="http://devblog.arnebrasseur.net/" target="_blank">@plexus Devblog</a></span>
+
+	</div>
+
+	<p>Arne is a professional software developer focused on web development.<br />
+       He's been passionate about Ruby since 2006, but has only really become involved in the community after moving to Berlin in 2012.<br />
+       He has worked in various fields, from e-commerce for telecom, concert tickets and resale, to medical OCR/OMR applications, and has made contributions to several Free and Open Source projects.<br />
+       His personal interests include both natural and formal languages, and he spent the best of two years in the far east learning to speak and write Chinese.
+	</p>
+</div>
+
+<div class="row-fluid">
+	<div class="speaker" style="float: left;">
+	  <img src="/assets/img/speakers/thomas.jpeg" alt="Thomas Riboulet">
+	  <span class="speaker-info author">Thomas Riboulet</span>
+	  <span class="divider"></span>
+	  <span class="speaker-info github">Github: <a href="http://github.com/mcansky" target="_blank">mcansky</a></span>
+	  <span class="speaker-info twitter">Twitter: <a href="http://twitter.com/mcansky" target="_blank">@mcansky</a></span>
+	  <span class="speaker-info blog">Blog: <a href="http://randomdev.tumblr.com/" target="_blank">Random dev</a></span>
+	</div>
+
+	<p><br />Born in the south of France, raised in the wild with cats and dogs with Apple computers and Tolkien stories.<br />
+       Difficult to avoid the family trade and by 2000 he was writing code and compiling kernels.<br />
+       After riding a dragon and crossed Oz by train he came back to old Europe to write articles and solve problems in Ruby.
+	</p>
+</div>
+
+<div class="row-fluid">
+	<div class="speaker" style="float: left;">
+	  <img src="/assets/img/speakers/joshua.jpeg" alt="Joshua Ballanco">
+	  <span class="speaker-info author">Joshua Ballanco</span>
+	  <span class="divider"></span>
+	  <span class="speaker-info github">Github: <a href="http://github.com/jballanc" target="_blank">jballanc</a></span>
+	  <span class="speaker-info twitter">Twitter: <a href="http://twitter.com/manhattanmetric" target="_blank">@manhattanmetric</a></span>
+	  <span class="speaker-info blog">Company: <a href="http://www.burnsidedigital.com/" target="_blank">Burnside Digital</a></span>
+	</div>
+
+	<p><br />Joshua has worked with Objective-C since 2002 and Ruby since 2004.<br />
+       He has built operating systems with Apple, local news websites with AOL, and somehow managed to finish a Ph.D. along the way.<br />
+       Currently, Joshua is Chief Scientist at Burnside Digital where he works with an amazing team of engineers and designers to solve problems for a wide range of clients.<br />
+       He works and lives in Ankara.
+	</p>
+</div>
+
+<div class="row-fluid">
+	<br />
+	You'll hear soon about he topics of their talks.<br />
+	As we have now unveiled all the names, it's time to get <a href="https://tito.io/rulu/rulu-2013">your ticket</a>.<br />
+	You don't want to miss the best Ruby conference in the French provinces!
+</div>
