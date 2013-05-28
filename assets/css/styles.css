@@ -778,3 +778,13 @@ a.not.available {
   color: gray !important;
   text-decoration: none !important;
 }
+
+h1.page-title {
+  font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-left: 5px;
+  color: black;
+  margin-bottom: 1em;
+}
