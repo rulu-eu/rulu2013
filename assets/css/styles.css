@@ -64,17 +64,26 @@ body > div > header div:first-child {
 }
 
 header h1 {
-	font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
-	font-size: 26px;
-  font-weight: 300;
-	margin-top: 58px;
-	text-transform: uppercase;
-	margin-left: 20px;
+  font-family: "CargoD", "Lucida Grande", Arial, sans-serif;
+  font-size: 18px;
+  margin-top: 58px;
+  text-transform: uppercase;
+  margin-left: 20px;
+  font-weight: 100;
 }
 
-header #aka {
+header h1 span {
+  display: block;
+}
+
+header h1 .rulu {
+  font-size: 26px;
+}
+
+header h1 .aka {
   color: #AAA;
-	text-transform: none;
+  text-transform: none;
+  display: inline;
 }
 
 /* L O G O */
