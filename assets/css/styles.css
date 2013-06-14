@@ -610,14 +610,14 @@ hr.spacer {
   margin-left: 10px;
 }
 
-#talks article > div:last-child p {
+#talks article > div:last-child p, .about p {
   /* Bio */
   margin: 10px;
   font-style: italic;
   color: #999;
 }
 
-#talks article > div:last-child {
+#talks article > div:last-child, .about {
   /* Bio */
   margin-top: 20px;
 }
@@ -789,4 +789,11 @@ h1.page-title {
   margin-left: 5px;
   color: black;
   margin-bottom: 1em;
+}
+
+.register {
+  margin-top: 35px;
+  padding-bottom: 20px;
+  display: block;
+  text-align: center;
 }
