@@ -797,3 +797,17 @@ h1.page-title {
   display: block;
   text-align: center;
 }
+
+.workshop img {
+  height: 100px;
+}
+
+.workshop {
+  text-align: center;
+}
+
+.workshop .register {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 120%;
+}
