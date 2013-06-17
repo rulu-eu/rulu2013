@@ -9,10 +9,12 @@ published: true
 
 So we thought we'd put together some suggestions for things to do in Lyon after the Friday workshops.
 
+<h4>Fête de la Musique in Lyon</h4>
 Friday is <a href="http://www.fetedelamusique.culture.fr/en/International/presentation/" target="_blank">Fête de la Musique</a> (World Music Day) and Lyon puts on a huge party! As the evening wears on, the streets, squares and parks of Lyon fill up with musicians putting on concerts - 
 <a href="http://www.culture.lyon.fr/culture/sections/fr/festivals/musiques_actuelles/fete_de_la_musique/fete_de_la_musique" target="_blank"> details here (in French)</a>. 
 So, whatever you choose to do following the workshops, do make Fête de la Musique part of your plans!
 
+<h4>Getting information</h4>
 The main information center in Lyon is in Place Bellecour. They also have a <a href="http://www.en.lyon-france.com/">website</a> that is worth checking out.
 Place Bellecour is well worth a visit - it is one of the central squares in Lyon and is likely to feature heavily in the festivities of Fête de la Musique.
 
@@ -30,10 +32,11 @@ The view of Lyon from Fourvière is quite something and the walk through the gar
 
 <h4>Explore Croix-Rousse</h4>
 
-[Croix-Rousse]("http://en.wikipedia.org/wiki/La_Croix-Rousse") is bohemian Lyon at it's best! This quartier features some of Lyon's best independent art, craft, food and drink. Want a souvenier to take home?
+[Croix-Rousse]("http://en.wikipedia.org/wiki/La_Croix-Rousse") is bohemian Lyon at it's best! This quartier features some of Lyon's best independent art, craft, food and drink. Want a souvenir to take home?
 You'll find something original here for sure!
 
-[![Pink-Robot-Girl](http://farm4.staticflickr.com/3769/8915830704_cc0d5ce910.jpg)](http://www.flickr.com/photos/navink/8915830704/lightbox/)
+<a href="http://www.flickr.com/photos/navink/8915830704/lightbox/"><img src="http://farm4.staticflickr.com/3769/8915830704_cc0d5ce910.jpg" alt="Pink-Robot-Girl" class="blog-thumb"></a>
+
 
 Start at the Hotel de Ville metro stop (on the A line), check out the sights around the Opera and Place des Terreaux, and then head uphill. You can find 
 awesome, locally designed t-shirts at [Laspid](http://laspid.com) in Place du Griffon, some of Lyon's best coffee at [Cafe Mokxa](http://www.cafemokxa.com) (3, Rue de l'Abbé Rozier) 
